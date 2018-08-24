@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#616161</color>
+    <color name="hitam">#000000</color>
+    <color name="putih">#FFFFFF</color>
+    <color name="abuabu">#E5E5E5</color>
+    <color name="textcolor">#BDBDBD</color>
+    <color name="merah">#B71C1C</color>
+    <color name="alertdialogback">#ffffff</color>
+    <color name="txtwarnalert">#828282</color>
+    <color name="crimson">#B71C1C</color>
+
+</resources>
